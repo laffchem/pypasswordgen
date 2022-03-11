@@ -34,7 +34,7 @@ pword = ""
 for char in sto_pwd:
     pword += char
 
-#randomly join the string to create the password
+#print the password as a complete string
 print(pword)
 
 
