@@ -27,7 +27,7 @@ for char in range(1, nr_numbers +1):
 #shuffle the list
 random.shuffle(sto_pwd)
 
-#Set empty variable to hold the lists
+#Set empty variable to hold the list
 pword = ""
 
 #populate the string with each term from the list
